@@ -1,0 +1,9 @@
+{
+    "modes": {
+        "NB": "Net Banking",
+        "PYPL": "PayPal",
+        "UPI": "Unified Payment Interface",
+        "BTC": "Bitcoin",
+        "ETH": "Etherium"
+    }
+}

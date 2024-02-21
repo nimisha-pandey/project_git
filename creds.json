@@ -1,0 +1,14 @@
+{
+    "credentials": [
+        {
+            "email": "abc@xyz.com",
+            "password": "foobar",
+            "isAdmin": false
+        },
+        {
+            "email": "admin@xyz.com",
+            "password": "admin",
+            "isAdmin": true
+        }
+    ]
+}
